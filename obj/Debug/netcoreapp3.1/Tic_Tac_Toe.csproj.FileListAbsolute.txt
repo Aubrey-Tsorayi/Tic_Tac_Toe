@@ -1,0 +1,11 @@
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/obj/Debug/netcoreapp3.1/Tic_Tac_Toe.csprojAssemblyReference.cache
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/obj/Debug/netcoreapp3.1/Tic_Tac_Toe.AssemblyInfoInputs.cache
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/obj/Debug/netcoreapp3.1/Tic_Tac_Toe.AssemblyInfo.cs
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/bin/Debug/netcoreapp3.1/Tic_Tac_Toe
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/bin/Debug/netcoreapp3.1/Tic_Tac_Toe.deps.json
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/bin/Debug/netcoreapp3.1/Tic_Tac_Toe.runtimeconfig.json
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/bin/Debug/netcoreapp3.1/Tic_Tac_Toe.runtimeconfig.dev.json
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/bin/Debug/netcoreapp3.1/Tic_Tac_Toe.dll
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/bin/Debug/netcoreapp3.1/Tic_Tac_Toe.pdb
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/obj/Debug/netcoreapp3.1/Tic_Tac_Toe.dll
+/home/th3_d3v/Documents/Projects/C#Projects/Tic_Tac_Toe/obj/Debug/netcoreapp3.1/Tic_Tac_Toe.pdb
